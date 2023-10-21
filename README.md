@@ -56,7 +56,7 @@ Marcador de link que acompanha o mouse, usando javaScript puro
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Geolocalizacao-IOS.git
+  ❯ git clone https://github.com/Talison-Miguel/Marcador-de-Link-Que-Acompanha-o-Mouse.git
 ```
 
 ---
