@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="follownav.jpg" />
+  <img alt="Imagem da Aplicação" src="follownav.png" />
 </p>
 
 ---
